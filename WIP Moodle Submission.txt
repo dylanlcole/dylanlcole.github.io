@@ -1,0 +1,22 @@
+Matthew Bing
+
+Dylan Cole
+
+Chelsea Kipper
+
+
+
+We decided to design a section-based app to control four different types of home products: Media, Atmosphere, Security and Appliances.
+
+Media: TV and Sound System
+
+Atmosphere: Lights, Temperature
+
+Security: Alarm On/Off, Lock Doors
+
+Appliances: Washer/Dryer, Dishwasher, Garage Door
+
+
+
+Each section will be in one of the four corners
+
